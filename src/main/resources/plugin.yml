@@ -1,0 +1,8 @@
+name: NoChatReporting
+version: '${project.version}'
+main: com.imabanana80.nochatreporting.NoChatReporting
+api-version: 1.19
+prefix: NCR
+authors: [Imabanana80]
+description: A simple plugin that disables chat reporting
+website: https://imabanana80.com/
