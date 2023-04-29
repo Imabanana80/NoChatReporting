@@ -10,7 +10,6 @@ public final class NoChatReporting extends JavaPlugin implements Listener {
 
     @Override
     public void onEnable() {
-        System.out.println();
         getServer().getPluginManager().registerEvents(this, this);
     }
 
